@@ -1,2 +1,2 @@
 # maple-func
-Some functions of javascript to realize some function for every browser.
+Some functions that developed by javascript to realize some function for every browser.
